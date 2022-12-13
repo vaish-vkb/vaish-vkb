@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 <strong>I'm Vaishnavi Kundeshwara Bhat, a Data Science enthusiast </strong><br><br>🌱<strong> I'm currently learning SQL and Machine Learning</strong><br><br>❓<strong> Ask me anything related to Python and Data analysis</strong><br><br>⚡<strong> Reach out to me at vaishnavivkb@gmail.com</strong>
+🔭 <strong>I'm Vaishnavi Kundeshwara Bhat, a Data Science enthusiast </strong><br><br>🌱<strong> I'm IBM Certified in Data Science and Analysis</strong><br><br>❓<strong> Ask me anything related to Python and Data analysis</strong><br><br>⚡<strong> Reach out to me at vaishnavivkb@gmail.com</strong>
 
 
 ## 🌐 Socials:
