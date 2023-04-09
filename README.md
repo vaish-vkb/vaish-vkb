@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 <strong>I'm Vaishnavi Kundeshwara Bhat, a Data Science enthusiast </strong><br><br>🌱<strong> I'm IBM Certified in Data Science and Analysis</strong><br><br>❓<strong> Ask me anything related to Python and Data analysis</strong><br><br>⚡<strong> Reach out to me at vaishnavivkb@gmail.com</strong>
+## Heyaa! 👋 <br>
+I'm Vaishnavi Kundeshwara Bhat, an aspiring data scientist based in India. I am currently pursuing my pre-final year in Information Science at NMAMIT.
+
+I am passionate about using data to uncover insights and solve real-world problems. My curiosity and eagerness to learn have driven me to obtain an IBM certification in both Data Science and Data Analytics, enabling me to acquire a strong foundation in statistics, machine learning, data visualization, and data manipulation.
+
+If you have any questions, opportunities, or just want to say hi, feel free to reach out to me at vaishnavivkb@gmail.com. I'm always looking forward to connecting with like-minded individuals and exploring new ideas.
 
 
 ## 🌐 Socials:
