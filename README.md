@@ -5,8 +5,8 @@ I’m Vaishnavi, a passionate data enthusiast currently pursuing my freshmen yea
 
 ## What I Bring to the Table<br>
 🌟 Experienced Data Mentor and Educator<br>
-I design, evaluate, and mentor industry-relevant projects, ensuring learners are job-ready for data analyst roles. My focus includes real-world content creation, placement preparation, and targeted feedback to optimize learner outcomes.<br>
-I guided students in building full-stack data analytics projects using Python, Power BI, HTML, CSS, and JavaScript, while creating educational resources to enhance their skills.<br><br>
+I design, evaluate, and mentor industry-relevant projects, ensuring learners are job-ready for data analyst roles.<br>
+I guided students in building full-stack data analytics projects using Python, Power BI, MYSQL, Google Looker Studio, HTML, CSS, and JavaScript, while creating educational resources to enhance their skills.<br><br>
 📊 Hands-On Problem-Solving and Data Analysis<br>
 I developed and implemented data collection systems, filtered and cleaned datasets, and uncovered actionable insights by analyzing trends and patterns in complex data.<br><br>
 🚀 Project Development Expertise<br>
